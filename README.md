@@ -1,2 +1,0 @@
-# Ovoz-aniqlash
-# Ovoz-aniqlash
