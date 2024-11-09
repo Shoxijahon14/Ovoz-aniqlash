@@ -13,7 +13,7 @@ def extract_features(audio_data, sr):
     return [avg_pitch]
 
 
-# Datasetdan olingan xususiyatlarni va belgilarni yuklash
+# Datasetdan olingan xususiyatlarni va belgilarni 
 def load_dataset():
     X = []  # Xususiyatlar
     y = []  # Klassifikatsiya belgilari (erkak - 0, ayol - 1)
